@@ -16,7 +16,7 @@ def examples():
 
 def chars():
     ch=["Cold Blooded" ,"Water Habitat" , "Gills" , "Fins for Movement" ]
-    print("Characteristics of Amphibians : ")
+    print("Characteristics of fishes : ")
     for i in ch:
         print(i)        
     print('\n\n')    
